@@ -15,7 +15,6 @@ Features
 
 6. Financial Insights :  The platform displays real-time data on course sales, student enrollment, and income earned. This invaluable information assists instructors in refining their teaching strategies and creating content that resonates with their audience.
 
-Technologies Used
 The E-LEARNING is built using the following technologies:
 
 
