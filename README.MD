@@ -1,6 +1,6 @@
-Welcome to the E-Shiksha EdTech Platform Repository!
+Welcome to the E-LEARNING Platform Repository!
 
-video link:"...https://education-eight-dun.vercel.app/.."
+video link:".."
 
 Features
 1. MERN Stack Architecture : The foundation of E-Shiksha is built upon the robust MERN (MongoDB, Express.js, React, Node.js) stack. This choice of technology ensures scalability, performance, and maintainability, allowing for a smooth and immersive user experience.
